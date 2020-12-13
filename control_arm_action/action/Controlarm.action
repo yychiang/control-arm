@@ -1,0 +1,8 @@
+#goal definition
+control_msgs/FollowJointTrajectoryActionGoal  goal
+---
+#result definition
+control_msgs/FollowJointTrajectoryActionResult  result
+---
+#feedback
+control_msgs/FollowJointTrajectoryActionFeedback feedback
